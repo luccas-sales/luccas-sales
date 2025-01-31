@@ -1,8 +1,8 @@
-<h2 align="left">Hey there! I'm Luccas Sales!</h2>
+<h1 align="left">Hey there! I'm Luccas Sales!</h1>
 
 ###
 
-<p align="left">💻 Full-Stack Web Developer Junior | UX Design</p>
+<h2 align="left">💻 Full-Stack Web Developer Junior | UX Design</h2>
 
 ###
 
@@ -45,8 +45,12 @@
   </a>
 </div>
 
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luccas-sales/luccas-sales/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luccas-sales/luccas-sales/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luccas-sales/luccas-sales/output/github-contribution-grid-snake.svg">
 </picture>
+
+###
