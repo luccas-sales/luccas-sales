@@ -1,8 +1,9 @@
 <h1 align="left">Wake up, Neo...</h1>
 
+<img align="right" height="170" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhpbmthOWd1d24wbDczNDZlZXFtb3I3eXRmcGNsN3ZsbjB5cnZoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ip5L71rU6sjcc/giphy.gif"  />
+
 <p align="left">Web design hooked me at 12 years old and never let go! After 10 years of adventures with After Effects and Photoshop, fate led me to the dark (and addictive!) side of web development. The feeling of bringing websites to life is so powerful that I feel like Neo in the Matrix, hacking reality with every line of code!</p>
 
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhpbmthOWd1d24wbDczNDZlZXFtb3I3eXRmcGNsN3ZsbjB5cnZoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ip5L71rU6sjcc/giphy.gif"  />
 
 <p style="display: inline-block;" align="center">
 <kbd>
@@ -25,6 +26,7 @@
   </kbd>
   </p>
 
+
 <div style="display: inline-block;" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luccas-sales&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=luccas-sales&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -35,9 +37,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luccas-sales/luccas-sales/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luccas-sales/luccas-sales/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTM5aGI4OGMzaGJ1ZGFnaHZ4Z25sMzRncTFjdHY0b3B0ZXVta2tzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif"  />
 
 ##
 
