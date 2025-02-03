@@ -1,14 +1,33 @@
-<h1 align="left">Hey there! I'm Luccas Sales!</h1>
+<h1 align="left">Wake up, Neo...</h1>
 
-<p align="left">💻 Full-Stack Web Developer Junior | UX Design</p>
+<p align="left">Web design hooked me at 12 years old and never let go! After 10 years of adventures with After Effects and Photoshop, fate led me to the dark (and addictive!) side of web development. The feeling of bringing websites to life is so powerful that I feel like Neo in the Matrix, hacking reality with every line of code!</p>
 
-<h3 align="center">⚙️ GitHub Analytics</h3>
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhpbmthOWd1d24wbDczNDZlZXFtb3I3eXRmcGNsN3ZsbjB5cnZoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ip5L71rU6sjcc/giphy.gif"  />
 
----
+<p style="display: inline-block;" align="center">
+<kbd>
+    <kbd>Languages</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
+  </kbd>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luccas-sales&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luccas-sales&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+   <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+  </kbd>
+  </p>
+
+<div style="display: inline-block;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luccas-sales&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=luccas-sales&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true" height="150" alt="stats graph"  />
 </div>
 
 <picture>
@@ -17,31 +36,14 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luccas-sales/luccas-sales/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h3 align="center">🛠️ Languages and Tools:</h3>
-
----
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-</div>
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTM5aGI4OGMzaGJ1ZGFnaHZ4Z25sMzRncTFjdHY0b3B0ZXVta2tzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif"  />
 
-<h3 align="center">🤝 Connect with Me</h3>
-
 ##
 
-<div align="left">
+<h3 align="center">🤝 Connect with Me</h3>
+
+<div align="center">
   <a href="https://www.instagram.com/12.21.3.3.1.19/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
