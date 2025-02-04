@@ -1,4 +1,4 @@
-<h1 align="left">Wake up, Luccas...</h1>
+<h1 align="left">"Wake up, Luccas..."</h1>
 
 <img align="right" height="170" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhpbmthOWd1d24wbDczNDZlZXFtb3I3eXRmcGNsN3ZsbjB5cnZoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ip5L71rU6sjcc/giphy.gif"  />
 
@@ -40,7 +40,7 @@
 
 ##
 
-<h3 align="center">🤝 Connect with Me</h3>
+<h3 align="center">Connect with Me</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/12.21.3.3.1.19/" target="_blank">
