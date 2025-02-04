@@ -40,7 +40,7 @@
 
 ##
 
-<h3 align="center">Connect with Me↴</h3>
+<h3 align="center">⬐Connect with Me⬎</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/12.21.3.3.1.19/" target="_blank">
