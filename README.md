@@ -2,7 +2,11 @@
 
 <img align="right" height="170" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhpbmthOWd1d24wbDczNDZlZXFtb3I3eXRmcGNsN3ZsbjB5cnZoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ip5L71rU6sjcc/giphy.gif"  />
 
-<p align="left">Web design hooked me at 12 years old and never let go! After 10 years of adventures with After Effects and Photoshop, fate led me to the dark (and addictive!) side of web development. The feeling of bringing websites to life is so powerful that I feel like Neo in the Matrix, hacking reality with every line of code!</p>
+Welcome to my profile! 🌐
+
+- I'm a Full Stack Web Dev student, currently learning JavaScript, HTML & CSS 
+- A fun fact about me: I spent a good part of my teen years wanting to be a web designer — so I'm excellent with After Effects (been editing since I was 12!)
+- I have a black cat named Neo, 'cause I'm obsessed with the Matrix saga
 
 
 <p style="display: inline-block;" align="center">
@@ -26,7 +30,7 @@
   </kbd>
   </p>
 
-
+---
 <div style="display: inline-block;" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luccas-sales&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=luccas-sales&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true" height="150" alt="stats graph"  />
