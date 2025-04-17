@@ -8,7 +8,6 @@ Welcome to my profile! 🌐
 - A fun fact about me: I spent a good part of my teen years wanting to be a web designer — so I'm excellent with After Effects (been editing since I was 12!)
 - I have a black cat named Neo, 'cause I'm obsessed with the Matrix saga
 
-
 <p style="display: inline-block;" align="center">
 <kbd>
     <kbd>Languages</kbd>
@@ -29,6 +28,8 @@ Welcome to my profile! 🌐
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
   </kbd>
   </p>
+
+  **Check out my project:** [The Cult Club LITE](https://luccas-sales.github.io/the-cult-club-lite/) ([Repository](https://github.com/luccas-sales/the-cult-club-lite))
 
 ---
 <div style="display: inline-block;" align="center">
