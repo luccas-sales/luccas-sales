@@ -32,8 +32,8 @@ Welcome to my profile! 🌐
 
 ---
 <div style="display: inline-block;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luccas-sales&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=luccas-sales&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=luccas-sales&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccas-sales&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="stats graph"  />
 </div>
 
 <picture>
