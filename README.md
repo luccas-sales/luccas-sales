@@ -29,7 +29,10 @@ Welcome to my profile! 🌐
   </kbd>
   </p>
 
-  **Check out my project:** [The Cult Club LITE](https://luccas-sales.github.io/the-cult-club-lite/) ([Repository](https://github.com/luccas-sales/the-cult-club-lite))
+  <strong>Check out my project:</strong> 
+    <a href="https://luccas-sales.github.io/the-cult-club-lite/" target="_blank" rel="noopener noreferrer">The Cult Club LITE</a> 
+    (<a href="https://github.com/luccas-sales/the-cult-club-lite" target="_blank" rel="noopener noreferrer">Repository</a>)
+
 
 ---
 <div style="display: inline-block;" align="center">
