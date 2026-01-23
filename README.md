@@ -4,47 +4,51 @@
 
 Welcome to my profile! 🌐
 
-- I'm a Full Stack Web Dev student, currently learning JavaScript, HTML & CSS 
-- A fun fact about me: I spent a good part of my teen years wanting to be a web designer — so I'm excellent with After Effects (been editing since I was 12!)
-- I have a black cat named Neo, 'cause I'm obsessed with the Matrix saga
+- I'm a Full Stack Web Dev JR, currently learning everything about everything... 
+- A fun fact about me: I spent my whole adolescence wanting to be a web designer, so I’m pretty good with After Effects (I’ve been editing since I was 12!).
+- I have three cats: Neo and Niobe (yes, I’m that obsessed with the Matrix saga) and Charlotte, named after Queen Charlotte.
 
 <p style="display: inline-block;" align="center">
 <kbd>
-    <kbd>Languages</kbd>
+    <kbd>Front-End Essentials</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  </kbd>
+    
+<kbd>
+  <kbd>Back-End Essentials</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   </kbd>
 
    <kbd>
-    <kbd>Tools</kbd>
+    <kbd>Frameworks & Tools</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   </kbd>
   </p>
-
-  <strong>Check out my project:</strong> 
-    <a href="https://luccas-sales.github.io/the-cult-club-lite/" target="_blank" rel="noopener noreferrer">The Cult Club LITE</a> 
-    (<a href="https://github.com/luccas-sales/the-cult-club-lite" target="_blank" rel="noopener noreferrer">Repository</a>)
 
 
 ---
 <div style="display: inline-block;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luccas-sales&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccas-sales&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="stats graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=luccas-sales&theme=dark&hide_border=false" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccas-sales&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="stats graph"  />
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luccas-sales/luccas-sales/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luccas-sales/luccas-sales/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luccas-sales/luccas-sales/output/github-contribution-grid-snake.svg">
-</picture>
 
 ##
 
